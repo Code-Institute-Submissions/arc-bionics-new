@@ -156,3 +156,9 @@ hr {
 .right-about-heading p {
     text-align: right;
 }
+
+#welcome {
+    margin: 20px 0;
+    text-align: center;
+    font-size: 280%;
+}
