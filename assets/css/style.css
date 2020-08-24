@@ -59,3 +59,9 @@ h2 {
     background-position: center center;
     background-size: cover;
 }
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
