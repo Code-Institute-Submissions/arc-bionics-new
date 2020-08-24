@@ -173,3 +173,13 @@ hr {
     border-radius: 50%;
     margin: 0 auto;
 }
+
+#circle-cover-bg {
+    background-image: url("/assets/images/bionic-arm-resized.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+    border-radius: 50%;
+
+}
