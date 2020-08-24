@@ -124,7 +124,7 @@ h2 {
 #center-about {
     width: 33%;
     margin: 0 auto;
-    background-color: green;
+
 }
 
 hr {
@@ -161,4 +161,13 @@ hr {
     margin: 20px 0;
     text-align: center;
     font-size: 280%;
+}
+
+#circular-container {
+    width: 300%;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #cccccc;
+    border-width: 1px;
 }
