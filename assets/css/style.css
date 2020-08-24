@@ -58,10 +58,24 @@ h2 {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
 }
 
 #hero-outer {
     height: 600px;
     width: 100%;
     overflow: hidden;
+}
+
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
 }
