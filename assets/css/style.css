@@ -50,3 +50,12 @@ h2 {
 .active {
     border-bottom: 1px solid #777777;
 }
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background-image: url(/assets/images/pexels-arc-arm.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
