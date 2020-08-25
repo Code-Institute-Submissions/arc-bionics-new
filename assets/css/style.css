@@ -242,3 +242,11 @@ footer {
     border-style: none;
     height: 400px;
 }
+
+@media screen and (max-width: 1393px ){
+    #company-motive{
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+}
