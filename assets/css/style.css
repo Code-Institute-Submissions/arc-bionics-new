@@ -230,3 +230,15 @@ footer {
     padding: 5%;
     color: #000f;
 }
+
+#images {
+    clear: both;
+    line-height: 0;
+    column-gap: 1px;
+}
+
+#images img {
+    vertical-align: middle;
+    border-style: none;
+    height: 400px;
+}
