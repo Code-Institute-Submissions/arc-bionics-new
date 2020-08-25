@@ -317,4 +317,15 @@ footer {
         text-align: center;
         padding: 0 20px 0 20px;
     }
+
+    #images {
+        column-count: 1;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    #images {
+        column-count: 1;
+        padding: 0;
+    }
 }
