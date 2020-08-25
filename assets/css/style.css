@@ -219,6 +219,7 @@ footer {
 
 .social-links {
     text-align: center;
+    background-color: black;
 }
 
 .social-links li {
@@ -229,7 +230,7 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #000f;
+    color: yellow;
 }
 
 #images {
