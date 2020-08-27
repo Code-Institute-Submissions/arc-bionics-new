@@ -56,7 +56,7 @@ h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background-image: url("/assets/images/pexels-arc-arm.jpg");
+    background-image: url("../images/pexels-arc-arm.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -177,7 +177,7 @@ hr {
 }
 
 #circle-cover-bg {
-    background-image: url("/assets/images/bionic-arm-resized.jpg");
+    background-image: url("../images/bionic-arm-resized.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -252,7 +252,7 @@ footer {
 
 .form-section {
     clear: left;
-    background-image: url("/assets/images/pexels-engineering.jpg");
+    background-image: url("../images/pexels-engineering.jpg");
     background-size: cover;
     background-position: center;
     height: 900px;
