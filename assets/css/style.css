@@ -56,7 +56,7 @@ h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background-image: url(/assets/images/pexels-arc-arm.jpg);
+    background-image: url("/assets/images/pexels-arc-arm.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -261,7 +261,7 @@ footer {
 .signup-form {
   margin-top: 150px;
   color: #000;
-  background-color: rgba(254, 191, 32, .5);;
+  background-color: rgba(254, 191, 32, .9);;
   max-width: 400px;
   position: absolute;
   left: 10%;
