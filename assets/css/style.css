@@ -214,10 +214,6 @@ hr {
     font-size: 20px;
 }
 
-footer {
-    height: 150px;
-}
-
 .social-links {
     text-align: center;
     background-color: black;
@@ -265,7 +261,6 @@ footer {
   background-color: rgba(254, 191, 32, .9);;
   max-width: 400px;
   position: absolute;
-  left: 10%;
   padding: 30px;
 }
 
@@ -387,6 +382,7 @@ footer {
         margin-left: 6%;
         font-size: 27px;
     }
+
 }
 
 @media screen and (max-width: 800px) {
