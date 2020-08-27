@@ -340,7 +340,8 @@ hr {
     }
 
     #images img {
-        padding-left: 20px;
+        height: 100%;
+        width: 100%;
     }
 }
 
@@ -398,7 +399,7 @@ hr {
 
     #images img {
         padding-left: inherit;
-        align-content: center;
+        margin: 0 auto;
     }
 
 }
