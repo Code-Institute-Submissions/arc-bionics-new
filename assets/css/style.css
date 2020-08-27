@@ -349,7 +349,7 @@ footer {
     #menu {
         clear: left;
         float: left;
-        margin-left: 30px;
+        margin-left: 20px;
         margin-bottom: 20px;
         line-height: 25px;
     }
@@ -381,6 +381,12 @@ footer {
     #images {
         column-count: 1;
     }
+
+    #hero-outer h2 {
+        padding: inherit;
+        margin-left: 6%;
+        font-size: 27px;
+    }
 }
 
 @media screen and (max-width: 800px) {
@@ -388,4 +394,5 @@ footer {
         column-count: 1;
         padding: 0;
     }
+
 }
