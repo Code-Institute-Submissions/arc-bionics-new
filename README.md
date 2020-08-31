@@ -3,10 +3,7 @@
 <h2 align="center"><img src="/assets/images/responsive-website-snap.png"></h2>
 
 # Table of Contents <a name="home"></a>
-<<<<<<< HEAD
-=======
 
->>>>>>> 9d60e2c46de7e897cb3d3f47b1464c33e70155cb
 1. [Project Introduction](#introduction)
 2. [UX](#ux)
 3. [Wireframes](#wireframes)
@@ -16,9 +13,8 @@
 7. [Known Bugs](#knownbugs)
 8. [Deployment](#deployment)
 9. [Credits](#credits)
-<<<<<<< HEAD
 
-## Project Introduction <a name="introduction></a>
+## Project Introduction <a name="introduction"></a>
 My Project here is centred around the name of the website which is Arc Bionics. It's mainly designed and catered to
 amputees who are suffering with a possibility of having no replacement or options for another arm or a leg, thus making 
 it easiy accessible for them to invest in a bionic limb that functions the same as an human limb.
@@ -32,5 +28,4 @@ In the UX section below you will be able to see this.
 To view my live website, please click onto this below:
 
 [View the live project here.](https://shazaiib47.github.io/arc-bionics-new/)
-=======
->>>>>>> 9d60e2c46de7e897cb3d3f47b1464c33e70155cb
+
