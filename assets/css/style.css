@@ -1,409 +1,389 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
-
-*{
-    margin: 0;
-    padding: 0;
-    border: 0;
+* {
+   margin: 0;
+   padding: 0;
+   border: 0;
 }
 
 html {
-  scroll-behavior: smooth;
+   scroll-behavior: smooth;
 }
 
 body {
-    font-family: 'Noto Sans', sans-serif;
-    color: #000000;
-    background-color: #E5A607;
+   font-family: 'Noto Sans', sans-serif;
+   color: #000000;
+   background-color: #E5A607;
 }
 
 h2 {
-    font-family: 'Noto Sans', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    color: #000000;
+   font-family: 'Noto Sans', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 4px;
+   color: #000000;
 }
 
-#logo{
-    float: left;
-    font-size: 280%;
-    margin-left: 30px;
+#logo {
+   float: left;
+   font-size: 280%;
+   margin-left: 30px;
 }
 
-#menu{
-    font-size: 110%;
-    list-style-type: none;
-    letter-spacing: 4px;
+#menu {
+   font-size: 110%;
+   list-style-type: none;
+   letter-spacing: 4px;
 }
 
-#logo, #menu {
-    line-height: 75px;
+#logo,
+#menu {
+   line-height: 75px;
 }
 
-#menu li{
-    float: right;
-    margin-right: 30px;
+#menu li {
+   float: right;
+   margin-right: 30px;
 }
 
 #menu a {
-    text-decoration: none;
-    color: inherit;
+   text-decoration: none;
+   color: inherit;
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #777777;
+   border-bottom: 1px solid #777777;
 }
 
 .active {
-    border-bottom: 1px solid #777777;
+   border-bottom: 1px solid #777777;
 }
 
 #hero-image {
-    height: 600px;
-    width: 100%;
-    background-image: url("../images/pexels-arc-arm.jpg");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-
-    animation-name: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
+   height: 600px;
+   width: 100%;
+   background-image: url("../images/pexels-arc-arm.jpg");
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: cover;
+   animation-name: hero-zoom;
+   animation-duration: 5s;
+   animation-fill-mode: forwards;
 }
 
 #hero-outer {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
+   height: 600px;
+   width: 100%;
+   overflow: hidden;
+   position: relative;
 }
 
 @keyframes hero-zoom {
-    from {
-        transform: scale(1);
-    }
-
-    to {
-        transform: scale(1.1);
-    }
+   from {
+      transform: scale(1);
+   }
+   to {
+      transform: scale(1.1);
+   }
 }
 
-#cover-text, cover-text h2 {
-    color: #ffffff;
+#cover-text,
+cover-text h2 {
+   color: #ffffff;
 }
 
 #cover-text {
-    font-size: 130%;
-    font-family: 'Noto Sans',sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-
-    width: 300px;
-    height: 200px;
-
-    padding-top: 40px;
-    padding-left: 10px;
-
-    background-color: rgba(254, 191, 32, .7);
-
-    bottom: 30px;
-    right: 150px;
-
-    position: absolute;
+   font-size: 130%;
+   font-family: 'Noto Sans', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 4px;
+   width: 300px;
+   height: 200px;
+   padding-top: 40px;
+   padding-left: 10px;
+   background-color: rgba(254, 191, 32, .7);
+   bottom: 30px;
+   right: 150px;
+   position: absolute;
 }
 
 #company-motive {
-    height: 600px;
+   height: 600px;
 }
 
 #left-about {
-    padding-top: 30px;
-    width: 33%;
-    float: left;
+   padding-top: 30px;
+   width: 33%;
+   float: left;
 }
 
 #right-about {
-    padding-top: 30px;
-    width: 33%;
-    float: right;
+   padding-top: 30px;
+   width: 33%;
+   float: right;
 }
 
 #center-about {
-    width: 33%;
-    margin: 0 auto;
-
+   width: 33%;
+   margin: 0 auto;
 }
 
 hr {
-    border-top: 1px solid #777777;
-    width: 100%;
-    margin: 5px 0;
+   border-top: 1px solid #777777;
+   width: 100%;
+   margin: 5px 0;
 }
 
 .left-about-heading {
-    width: 50%;
-    float: right;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
+   width: 50%;
+   float: right;
+   line-height: 20px;
+   clear: both;
+   margin-bottom: 50px;
 }
 
 .right-about-heading {
-    width: 50%;
-    float: left;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
+   width: 50%;
+   float: left;
+   line-height: 20px;
+   clear: both;
+   margin-bottom: 50px;
 }
 
 .right-about-heading h2 {
-    text-align: center;
+   text-align: center;
 }
 
 .right-about-heading p {
-    text-align: right;
+   text-align: right;
 }
 
 #welcome {
-    margin: 20px 0;
-    text-align: center;
-    font-size: 280%;
+   margin: 20px 0;
+   text-align: center;
+   font-size: 280%;
 }
 
 #circle-container {
-    width: 300px;
-    height: 300px;
-    padding: 30px;
-    border-style: solid;
-    border-color: #cccccc;
-    border-width: 1px;
-    border-radius: 50%;
-    margin: 0 auto;
+   width: 300px;
+   height: 300px;
+   padding: 30px;
+   border-style: solid;
+   border-color: #cccccc;
+   border-width: 1px;
+   border-radius: 50%;
+   margin: 0 auto;
 }
 
 #circle-cover-bg {
-    background-image: url("../images/bionic-arm-resized.jpg");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    height: 100%;
-    border-radius: 50%;
-
+   background-image: url("../images/bionic-arm-resized.jpg");
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: cover;
+   height: 100%;
+   border-radius: 50%;
 }
 
 #testing {
-    background-image: url("../images/arc-bionics-logo-2.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    width: 100%;
-    overflow: hidden;
+   background-image: url("../images/arc-bionics-logo-2.jpg");
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   width: 100%;
+   overflow: hidden;
 }
 
 #testing div {
-    color: #000000;
-    background-color: rgba(0, 0, 0, .3);
-    width: 19%;
-    height: 300px;
-    float: left;
-    padding: 30px 0 0 10px;
-    text-align: center;
-    margin: 4px;
+   color: #000000;
+   background-color: rgba(0, 0, 0, .3);
+   width: 19%;
+   height: 300px;
+   float: left;
+   padding: 30px 0 0 10px;
+   text-align: center;
+   margin: 4px;
 }
 
 #testing h2 {
-    color: #000000;
+   color: #000000;
 }
 
 #testing h3 {
-    font-size: 20px;
+   font-size: 20px;
 }
 
 .social-links {
-    text-align: center;
-    background-color: black;
-    margin: 50px 0 0 0;
+   text-align: center;
+   background-color: black;
+   margin: 50px 0 0 0;
 }
 
 .social-links li {
-    display: inline;
+   display: inline;
 }
 
 .social-links i {
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
-    color: #e5a607;
+   font-size: 160%;
+   margin: 1%;
+   padding: 5%;
+   color: #e5a607;
 }
 
 .social-links p {
-    color: #E5A607;
+   color: #E5A607;
 }
 
 #images {
-    clear: both;
-    line-height: 0;
-    column-gap: 1px;
+   clear: both;
+   line-height: 0;
+   column-gap: 1px;
 }
 
 #images img {
-    vertical-align: middle;
-    border-style: none;
-    height: 400px;
-    padding-left: 20px;
+   vertical-align: middle;
+   border-style: none;
+   height: 400px;
+   padding-left: 20px;
 }
 
 .form-section {
-    clear: left;
-    background-image: url("../images/pexels-engineering.jpg");
-    background-size: cover;
-    background-position: center;
-    height: 900px;
+   clear: left;
+   background-image: url("../images/pexels-engineering.jpg");
+   background-size: cover;
+   background-position: center;
+   height: 900px;
 }
 
 .signup-form {
-  margin-top: 150px;
-  color: #000000;
-  background-color: rgba(254, 191, 32, .9);;
-  max-width: 400px;
-  position: absolute;
-  padding: 30px;
+   margin-top: 150px;
+   color: #000000;
+   background-color: rgba(254, 191, 32, .9);
+   ;
+   max-width: 400px;
+   position: absolute;
+   padding: 30px;
 }
 
 .signup-form h2 {
-  color: #000000;
-  margin-bottom: 20px;
+   color: #000000;
+   margin-bottom: 20px;
 }
 
 .text-input {
-  background: transparent;
-  color: #fafafa;
-  width: 100%;
-  height: 25px;
-  margin: 5px 0 20px;
-  border: 1px solid #000000;
-  border-radius: 2px;
+   background: transparent;
+   color: #fafafa;
+   width: 100%;
+   height: 25px;
+   margin: 5px 0 20px;
+   border: 1px solid #000000;
+   border-radius: 2px;
 }
 
 .text-input:hover {
-  border-color: #f16c6b;
+   border-color: #f16c6b;
 }
 
 .join-button {
-  margin-top: 20px;
-  border-radius: 2px;
-  padding: 15px 32px;
-  text-align: center;
-  font-size: 100%;
-  background-color: #e5a607;
-  color: #000;
-  display: block;
+   margin-top: 20px;
+   border-radius: 2px;
+   padding: 15px 32px;
+   text-align: center;
+   font-size: 100%;
+   background-color: #e5a607;
+   color: #000;
+   display: block;
 }
 
 .join-button:hover {
-  background-color: #fafafa;
-  color: #f16c6b;
+   background-color: #fafafa;
+   color: #f16c6b;
 }
 
-@media screen and (max-width: 1393px ){
-    #company-motive{
-        width: 65%;
-        height: 1200px;
-        margin: 0 auto;
-    }
-
-    #welcome {
-        padding: 30px 0;
-        margin: 0;
-    }
-
-    #left-about, #right-about {
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
-
-    #center-about {
-        clear: both;
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
-
-    #testing div {
-        width: 100%;
-        clear: both;
-        height: 150%;
-        border-style: solid;
-        border-bottom-width: 1px;
-        border-bottom-color: white;
-        padding: 0;
-    }
-
-    hr {
-        display: none;
-    }
-
-    #images img {
-        height: 100%;
-        width: 100%;
-    }
+@media screen and (max-width: 1393px) {
+   #company-motive {
+      width: 65%;
+      height: 1200px;
+      margin: 0 auto;
+   }
+   #welcome {
+      padding: 30px 0;
+      margin: 0;
+   }
+   #left-about,
+   #right-about {
+      width: 100%;
+      float: left;
+      padding: 0;
+   }
+   #center-about {
+      clear: both;
+      width: 100%;
+      float: left;
+      padding: 0;
+   }
+   #testing div {
+      width: 100%;
+      clear: both;
+      height: 150%;
+      border-style: solid;
+      border-bottom-width: 1px;
+      border-bottom-color: white;
+      padding: 0;
+   }
+   hr {
+      display: none;
+   }
+   #images img {
+      height: 100%;
+      width: 100%;
+   }
 }
 
-@media screen and (max-width: 943px){
-
-    #menu {
-        clear: left;
-        float: left;
-        margin-left: 20px;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
-
-    #cover-text {
-        left: 0px;
-    }
-
-    #company-motive {
-        width: 90%;
-        height: 1200px;
-        margin: 0 auto;
-    }
-
-    .left-about-heading, .right-about-heading {
-        width: inherit;
-    }
-
-    .left-about-heading, .right-about-heading h2 { 
-        width: 100%;
-        text-align: center;
-    }
-
-    .left-about-heading p, .right-about-heading p {
-        text-align: center;
-        padding: 0 20px 0 20px;
-    }
-
-    #images {
-        column-count: 1;
-    }
-
-    #hero-outer h2 {
-        padding-left: inherit;
-        margin-left: 6%;
-        font-size: 27px;
-    }
-
+@media screen and (max-width: 943px) {
+   #menu {
+      clear: left;
+      float: left;
+      margin-left: 20px;
+      margin-bottom: 20px;
+      line-height: 25px;
+   }
+   #cover-text {
+      left: 0px;
+   }
+   #company-motive {
+      width: 90%;
+      height: 1200px;
+      margin: 0 auto;
+   }
+   .left-about-heading,
+   .right-about-heading {
+      width: inherit;
+   }
+   .left-about-heading,
+   .right-about-heading h2 {
+      width: 100%;
+      text-align: center;
+   }
+   .left-about-heading p,
+   .right-about-heading p {
+      text-align: center;
+      padding: 0 20px 0 20px;
+   }
+   #images {
+      column-count: 1;
+   }
+   #hero-outer h2 {
+      padding-left: inherit;
+      margin-left: 6%;
+      font-size: 27px;
+   }
 }
 
 @media screen and (max-width: 800px) {
-    #images {
-        column-count: 1;
-        padding-left: inherit;
-    }
-
-    #images img {
-        padding-left: inherit;
-        margin: 0 auto;
-    }
-
+   #images {
+      column-count: 1;
+      padding-left: inherit;
+   }
+   #images img {
+      padding-left: inherit;
+      margin: 0 auto;
+   }
 }
