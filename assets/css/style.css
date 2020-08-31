@@ -6,9 +6,13 @@
     border: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
     font-family: 'Noto Sans', sans-serif;
-    color: #000f;
+    color: #000000;
     background-color: #E5A607;
 }
 
@@ -16,7 +20,7 @@ h2 {
     font-family: 'Noto Sans', sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #000f;
+    color: #000000;
 }
 
 #logo{
@@ -196,7 +200,7 @@ hr {
 }
 
 #testing div {
-    color: #000f;
+    color: #000000;
     background-color: rgba(0, 0, 0, .3);
     width: 19%;
     height: 300px;
@@ -207,7 +211,7 @@ hr {
 }
 
 #testing h2 {
-    color: #000f;
+    color: #000000;
 }
 
 #testing h3 {
@@ -258,7 +262,7 @@ hr {
 
 .signup-form {
   margin-top: 150px;
-  color: #000;
+  color: #000000;
   background-color: rgba(254, 191, 32, .9);;
   max-width: 400px;
   position: absolute;
@@ -266,7 +270,7 @@ hr {
 }
 
 .signup-form h2 {
-  color: #000;
+  color: #000000;
   margin-bottom: 20px;
 }
 
@@ -276,7 +280,7 @@ hr {
   width: 100%;
   height: 25px;
   margin: 5px 0 20px;
-  border: 1px solid #000;
+  border: 1px solid #000000;
   border-radius: 2px;
 }
 
