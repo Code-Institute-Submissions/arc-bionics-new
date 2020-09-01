@@ -145,3 +145,30 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
  - This was used to validate the content of my HTML content.
 
     Results for the HTML validation can be found [Here](documentation/HTML-Validation.jpg)
+
+
+### Testing User Stories from UX Section
+
+- ### First Time Visitor Goals
+ 
+    1. As a First Time Visitor, I want to easily learn the purpose of the site and more about the organisation.
+
+        1. When Entering the site, users are greeted with a vast image with an effect to capture the user's interest.
+            This is reinforced with a ethos which states "The Future of Movement Is Here".
+        2. This ethos alone captures a user's interest and encourages them to slow down in which they will find more information
+            about the company itself as well as the benefits of having a bionic limb.
+    
+    2. As a First Time Visitor, I want to easily navigate through the site to find content.
+
+        1. The website has a clear structure and the header is clearly indicated as to where a link would take you.
+            When a user would want to navigate back home, the logo in the header is interactive, thus a link to take you back home
+            which is good user experience.
+        2. The  website contains a footer with interactive links to choose that will take you to further social sites to learn more about
+           the company itself and opens in another tab, leaving the  website in a tab of its own.
+    
+    3. As a First Time Visitor, I want to be able to use a form to contact the site for any queries in relation to bionics.
+
+
+        1. The website has a seperate page labelled as 'Contact Us'. This page has a clear and concise form to interact with.
+        2. The form itself is clearly labelled and does not let you submit  unless you fill in all the fields which is good user experience.
+    
