@@ -249,3 +249,25 @@ This project was deployed to github by following these steps below..
 - Logo creation was my own work as listed above.
 
 - Icons used within the website were added from [Font Awesome](https://fontawesome.com/)
+
+## Acknowledgements
+
+- First and Foremost to my mentor, Aaron Sinnott! For the continuous help and tips provided to me to ensure I was doing my best. For also providing me with a basic README file to ensure I knew 
+  how to structure my own README.
+
+- The Slack Community for helping me when I was stuck on formatting the website and with media queries as well as the non-stop support which kept me motivated during my down days where I had been depressed.
+
+- [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma/) for the course material and their inspiration from challenges and mini projects.
+
+- Code Institute Tutoring to help when I could not figure out the syntax errors. (Many thanks Stephen!)
+
+- [W3Schools](https://www.w3schools.com/) for a source of go-to help when I could not figure out how to format images and colours and all around support!
+
+- [Open Bionics](https://openbionics.com/) As a source of inspiration and my motivation to pursue this project further, thank you!
+
+- [CSS Tricks](https://css-tricks.com/child-and-sibling-selectors/) when I needed assistance on child selectors and the meaning for each element.
+
+- My Career Consultant [Stuart Crang](https://www.linkedin.com/in/stuart-crang-50401897/) for always keeping me motivated and to push me further when I had no drive due to personal stress.
+ A very big help!
+
+ - [Pexels](https://pexels.com) for providing the media for my  website when I had no images to upload myself. Much thanks to the contributors who uploaded their own images for users to use!
