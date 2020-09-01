@@ -66,3 +66,16 @@ To view my live website, please click onto this below:
       a shade of yellow as seen below.
 
       <h2 align="center"><img src="/assets/images/Color-Pallete-Site.png"></h2>
+
+
+- ### Logo Creation
+
+    - When Creating the Logo in the pre planning phase, I had to make sure If i wanted the logo present at the header of the website or just the text to be 
+      made as responsive. Upon further thinking, I had then decided to add the logo within the site itself so it was embedded.
+      
+    - I wanted the Logo to have a futuristic touch to it as bionics is something of the future and enables the user to think bionics are the future 
+      and will be quickly in development as it will under go trials to be used in the NHS.
+    
+    - The Logo was created entirely by my own design as well as the image by using the online resource called [Logo Makr](https://logomakr.com)
+
+    <h2 align="center"><img src="/assets/images/arc-bionics-logo-main.png"></h2>
