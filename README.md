@@ -98,13 +98,36 @@ To view my live website, please click onto this below:
 
 ## Features
 
-    - Responsive on all device sizes, from handhelds to tablets by using Media Queries.
+- Responsive on all device sizes, from handhelds to tablets by using Media Queries.
 
-    - Interactive Elements used across the website.
+- Interactive Elements used across the website.
 
-    - Captivating hero image with an effect added to grasp user's attention.
+- Captivating hero image with an effect added to grasp user's attention.
 
-    - Adaptive Colour Theme used to bring the website together.
+- Adaptive Colour Theme used to bring the website together.
 
 
 ## Technologies Used
+
+- ### Languages Used
+
+    - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+        - Used as the main language for website content and production.
+    
+    - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+        - Used to style the HTML pages individually.
+
+- ### Frameworks, Libraries and Programs Used.
+
+    1. [Bootstrap 4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+        - Bootstrap was used to assist with both the styling and responsiveness of the website.
+    2. [Google Fonts](https://fonts.google.com)
+        - Google Fonts was used to import 'Noto Sans' font into style.css to be used across the website.
+    3. [Font Awesome](https://fontawesome.com)
+        - Font Awesome was used on all pages to add icons for aesthetic and mainly UX purposes to suit theme of website.
+    4. [Git](https://git-scm.com/)
+        - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+    5. [GitHub](https://github.com/)
+        - GitHub is used to store the projects code after being pushed from Git.
+    6. [Balsamiq](https://balsamiq.com/)
+         - Balsamiq was used to create the wireframes during the design process.
