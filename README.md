@@ -188,3 +188,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     - "Footer placed well and social links and styling match the theme of the website. The links itself open in a new tab to ensure the website stays open."
 
     - "Contact page with the form is positioned in a way where the user can clearly view the background image as well as filling in the required details with identifiable labels."
+
+
+## Known Bugs
+
+- In mobile view, the navigation bar shows as Home being below the other 2 links. This still functions well.
+
+- In various handheld devices, the gallery page shows images with more margins as usual, the images still show but this does not effect the page as a whole.
