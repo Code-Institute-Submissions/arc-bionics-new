@@ -14,6 +14,7 @@
 8. [Known Bugs](#knownbugs)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
+11. [Acknowledgements](#acknowledgements)
 
 ## Project Introduction <a name="introduction"></a>
 My Project here is centred around the name of the website which is Arc Bionics. It's mainly designed and catered to
@@ -51,6 +52,19 @@ To view my live website, please click onto this below:
         5. As a Site Owner, I want the user to view images clearly and to be able to view what the main purpose of the site is.
 
 ## Design Choices
+
+- ### Website Drafts
+<h2 align="center"><img src="documentation/Website-Drafts.jpg"></h2>
+
+- Originally before the creation of this website, I had multiple ideas as to how i would want my website to be like.
+
+- Above, you can see 2 drafts I had made mid website development but given the span of my website, I had given up on these 2 plans
+  as it would make it too complicated for me as a first project and did not want to confuse the user with it.
+
+- The ethos shown across the second draft image was customised in a way where it would sweep across the screen in a smooth manner.
+
+- *Note: These 2 draft website plans were created before this final product and had been kept on the side to take inspiration from*
+
 
 - ### Font Selection 
 
