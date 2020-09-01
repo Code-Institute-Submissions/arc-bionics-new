@@ -6,13 +6,14 @@
 
 1. [Project Introduction](#introduction)
 2. [UX](#ux)
-3. [Wireframes](#wireframes)
-4. [Features](#features)
-5. [Technologies Used](#techused)
-6. [Testing](#testing)
-7. [Known Bugs](#knownbugs)
-8. [Deployment](#deployment)
-9. [Credits](#credits)
+3. [Design Choices](#designchoices)
+4. [Wireframes](#wireframes)
+5. [Features](#features)
+6. [Technologies Used](#techused)
+7. [Testing](#testing)
+8. [Known Bugs](#knownbugs)
+9. [Deployment](#deployment)
+10. [Credits](#credits)
 
 ## Project Introduction <a name="introduction"></a>
 My Project here is centred around the name of the website which is Arc Bionics. It's mainly designed and catered to
@@ -29,3 +30,39 @@ To view my live website, please click onto this below:
 
 [View the live project here.](https://shazaiib47.github.io/arc-bionics-new/)
 
+## User Experience (UX)
+
+-   ### User Stories
+
+    - ### First Time Visitor Goals
+
+        1. As a First Time Visitor, I want to easily learn the purpose of the site and more about the organisation.
+        2. As a First Time Visitor, I want to easily navigate through the site to find content.
+        3. As a First Time Visitor, I want to navigate the social links of the organisation to determine how known they are.
+        4. As a First Time Visitor, I want to be able to see a company logo located within the website.
+        5. As a First Time Visitor, I want to be able to use a form to contact the site for any queries in relation to bionics.
+
+    - ### Site Owner Goals
+
+        1. As a Site Owner, I want to create a very interactive website with links to allow the user to grasp clearly what is going on.
+        2. As a Site Owner, I want the user to be able to submit a query using a form provided to get in contact with the company.
+        3. As a Site Owner, I want the user to clearly make their way around the website with the links given as well as the social links.
+        4. As a Site Owner, I want the user to be able to communicate with the company through the social links given.
+        5. As a Site Owner, I want the user to view images clearly and to be able to view what the main purpose of the site is.
+
+## Design Choices
+
+- ### Font Selection 
+
+    - I had chosen a universal font to be used across the whole of the website as this made styling easy and had fit in well with the theme of my website.
+      The Font I had chosen was [Noto Sans](https://fonts.google.com/specimen/Noto+Sans?query=noto+sa)
+
+- ### Colour Choice 
+
+    - When considering the colour theme of my website in the pre planning phase, I had to choose a theme that combined colours effortlessly
+      and ensure that there would be no confusion so the user does not get distracted by the colours used. 
+
+      The Images and text colour had contrasted the theme of the logo and website well, so I had chosen a mix of colours which include; Black, White, Grey and 
+      a shade of yellow as seen below.
+
+      <h2 align="center"><img src="/assets/images/Color-Pallete-Site.png"></h2>
