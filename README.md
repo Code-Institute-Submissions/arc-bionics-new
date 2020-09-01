@@ -31,7 +31,7 @@ To view my live website, please click onto this below:
 
 [View the live project here.](https://shazaiib47.github.io/arc-bionics-new/)
 
-## User Experience (UX)
+## User Experience (UX) <a name="ux"></a>
 
 -   ### User Stories
 
@@ -51,7 +51,7 @@ To view my live website, please click onto this below:
         4. As a Site Owner, I want the user to be able to communicate with the company through the social links given.
         5. As a Site Owner, I want the user to view images clearly and to be able to view what the main purpose of the site is.
 
-## Design Choices
+## Design Choices <a name="designchoices"></a>
 
 - ### Website Drafts
 <h2 align="center"><img src="documentation/Website-Drafts.jpg"></h2>
@@ -95,7 +95,7 @@ To view my live website, please click onto this below:
     <h2 align="center"><img src="/assets/images/arc-bionics-logo-main.png"></h2>
 
 
-## Wireframes
+## Wireframes <a name="wireframes"></a>
 
 - ### *Disclaimer: Wireframes were made pre website production but had been added to documentation in github after the completion of website*
 
@@ -110,7 +110,7 @@ To view my live website, please click onto this below:
     - Wireframes for the website including mobile layout can be found [Here](documentation/wireframes/MS1-Wireframes-Mockup.pdf)
 
 
-## Features
+## Features <a name="features"></a>
 
 - Responsive on all device sizes, from handhelds to tablets by using Media Queries.
 
@@ -121,7 +121,7 @@ To view my live website, please click onto this below:
 - Adaptive Colour Theme used to bring the website together.
 
 
-## Technologies Used
+## Technologies Used <a name="techused"></a>
 
 - ### Languages Used
 
@@ -146,7 +146,7 @@ To view my live website, please click onto this below:
     6. [Balsamiq](https://balsamiq.com/)
          - Balsamiq was used to create the wireframes during the design process.
 
-## Testing
+## Testing <a name="testing"></a>
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
@@ -204,13 +204,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     - "Contact page with the form is positioned in a way where the user can clearly view the background image as well as filling in the required details with identifiable labels."
 
 
-## Known Bugs
+## Known Bugs <a name="knownbugs"></a>
 
 - In mobile view, the navigation bar shows as Home being below the other 2 links. This still functions well.
 
 - In various handheld devices, the gallery page shows images with more margins as usual, the images still show but this does not effect the page as a whole.
 
-## Deployment
+## Deployment <a name="deployment"></a>
 
 ###  Github Pages
 
@@ -224,7 +224,7 @@ This project was deployed to github by following these steps below..
 6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
 7. You have now deployed the project and this process is completed.
 
-## Credits
+## Credits <a name="credits"></a>
 
 ### Code
 
@@ -250,7 +250,7 @@ This project was deployed to github by following these steps below..
 
 - Icons used within the website were added from [Font Awesome](https://fontawesome.com/)
 
-## Acknowledgements
+## Acknowledgements <a name="Acknowledgements"></a>
 
 - First and Foremost to my mentor, Aaron Sinnott! For the continuous help and tips provided to me to ensure I was doing my best. For also providing me with a basic README file to ensure I knew 
   how to structure my own README.
@@ -271,3 +271,5 @@ This project was deployed to github by following these steps below..
  A very big help!
 
  - [Pexels](https://pexels.com) for providing the media for my  website when I had no images to upload myself. Much thanks to the contributors who uploaded their own images for users to use!
+
+ - [Google](https://google.com) for basic troubleshooting tips, from the littlest of problems to the biggest when I had no idea what was causing the issue.
