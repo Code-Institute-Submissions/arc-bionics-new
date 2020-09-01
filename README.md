@@ -94,3 +94,17 @@ To view my live website, please click onto this below:
     - The Wireframes that I had developed were in [Balsamiq](https://balsamiq.com)
 
     - Wireframes for the website including mobile layout can be found [Here](documentation/wireframes/MS1-Wireframes-Mockup.pdf)
+
+
+## Features
+
+    - Responsive on all device sizes, from handhelds to tablets by using Media Queries.
+
+    - Interactive Elements used across the website.
+
+    - Captivating hero image with an effect added to grasp user's attention.
+
+    - Adaptive Colour Theme used to bring the website together.
+
+
+## Technologies Used
