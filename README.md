@@ -131,3 +131,17 @@ To view my live website, please click onto this below:
         - GitHub is used to store the projects code after being pushed from Git.
     6. [Balsamiq](https://balsamiq.com/)
          - Balsamiq was used to create the wireframes during the design process.
+
+## Testing
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+[W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+ - This was used to validate the CSS.
+
+    Results for the validation service can be found [Here](http://jigsaw.w3.org/css-validator/validator$link)
+
+[W3C Markup Validator](https://validator.w3.org/#validate_by_input)
+ - This was used to validate the content of my HTML content.
+
+    Results for the HTML validation can be found [Here](documentation/wireframes/HTML-Validation.png)
