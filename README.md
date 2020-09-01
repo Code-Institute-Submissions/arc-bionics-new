@@ -172,3 +172,19 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         1. The website has a seperate page labelled as 'Contact Us'. This page has a clear and concise form to interact with.
         2. The form itself is clearly labelled and does not let you submit  unless you fill in all the fields which is good user experience.
     
+
+    ## Further Testing
+     - The Website was tested on multiple browsers; Chrome, Firefox, Microsoft Edge and Safari.
+     - The Website was viewed on multiple devices, iPhone X/8/7 Plus, Desktop, Laptop, iPad and Huawei P30 Lite.
+     - Continuous testing took place to ensure the pages were linked correctly and that images were shown with no marginal errors across the screen.
+     - Family members were asked to test the website for me and their stories can be found below;
+    
+    
+    ## Further Testing Stories (Family)
+    - "Upon entering the website, the structure was clear and I could make my way around with ease with easily navigational links."
+
+    - "The Gallery page responds well on both mobile and desktop with both margins at the side to ensure the images are centered."
+
+    - "Footer placed well and social links and styling match the theme of the website. The links itself open in a new tab to ensure the website stays open."
+
+    - "Contact page with the form is positioned in a way where the user can clearly view the background image as well as filling in the required details with identifiable labels."
