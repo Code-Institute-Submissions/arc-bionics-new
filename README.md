@@ -97,7 +97,7 @@ To view my live website, please click onto this below:
 
 ## Wireframes
 
-- ### *Disclaimer: Wireframes were made pre website production but had been added to documention in github after the completion of website*
+- ### *Disclaimer: Wireframes were made pre website production but had been added to documentation in github after the completion of website*
 
     - I had created the wireframes as a draft and How I wanted the layout to be in the final website.
       Upon comparing the wireframes and the final design, there are subtle changes in terms of element placement etc.
