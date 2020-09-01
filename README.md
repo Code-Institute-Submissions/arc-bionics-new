@@ -224,7 +224,7 @@ This project was deployed to github by following these steps below..
 
 - Colour properties and additional hex values was added from [Hex Color Tool](https://www.hexcolortool.com/)
 
--  Content of website was made in pre planning phase by forming a script  which can be found [here](documentation/Arc-Bionics-Script-docx)
+-  Content of website was made in pre planning phase by forming a script  which can be found [here](https://easyupload.io/gbowmw)
     - *Note, some of the content from the script  was not added in the final product*
 
 ### Media
