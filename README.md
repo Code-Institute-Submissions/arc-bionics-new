@@ -195,3 +195,43 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - In mobile view, the navigation bar shows as Home being below the other 2 links. This still functions well.
 
 - In various handheld devices, the gallery page shows images with more margins as usual, the images still show but this does not effect the page as a whole.
+
+## Deployment
+
+###  Github Pages
+
+This project was deployed to github by following these steps below..
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+7. You have now deployed the project and this process is completed.
+
+## Credits
+
+### Code
+
+- The Code content was directly inputted by myself with help from Code Institute LR Mini Project and [W3Schools](https://www.w3schools.com/)
+
+- [Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) was used for mobile first responsiveness as well as fitment for other devices.
+
+### Contents
+
+- All content including HTML and CSS was added by the developer of the website.
+
+- Colour properties and additional hex values was added from [Hex Color Tool](https://www.hexcolortool.com/)
+
+-  Content of website was made in pre planning phase by forming a script  which can be found [here](documentation/Arc-Bionics-Script-docx)
+    - *Note, some of the content from the script  was not added in the final product*
+
+### Media
+
+- Images used in  the website were added by [Pexels](https://www.pexels.com)
+    - Some images were then edited by [Pixlr](https://pixlr.com) and were also renamed to make file adding in the code more easier.
+
+- Logo creation was my own work as listed above.
+
+- Icons used within the website were added from [Font Awesome](https://fontawesome.com/)
