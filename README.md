@@ -79,3 +79,18 @@ To view my live website, please click onto this below:
     - The Logo was created entirely by my own design as well as the image by using the online resource called [Logo Makr](https://logomakr.com)
 
     <h2 align="center"><img src="/assets/images/arc-bionics-logo-main.png"></h2>
+
+
+## Wireframes
+
+- ### *Disclaimer: Wireframes were made pre website production but had been added to documention in github after the completion of website*
+
+    - I had created the wireframes as a draft and How I wanted the layout to be in the final website.
+      Upon comparing the wireframes and the final design, there are subtle changes in terms of element placement etc.
+    
+    - My Wireframes focus on the basic layout structure of the website and then identifying how it would look across multiple devices.
+ 
+
+    - The Wireframes that I had developed were in [Balsamiq](https://balsamiq.com)
+
+    - Wireframes for the website including mobile layout can be found [Here](documentation/wireframes/MS1-Wireframes-Mockup.pdf)
