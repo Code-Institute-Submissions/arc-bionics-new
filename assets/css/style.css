@@ -252,10 +252,10 @@ hr {
    margin-top: 150px;
    color: #000000;
    background-color: rgba(254, 191, 32, .9);
-   ;
    max-width: 400px;
    position: absolute;
    padding: 30px;
+   margin-left: 100px;
 }
 
 .signup-form h2 {
@@ -330,6 +330,7 @@ hr {
    #images img {
       height: 100%;
       width: 100%;
+      padding-left: 0.2px;
    }
 }
 
