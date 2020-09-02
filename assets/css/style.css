@@ -409,3 +409,28 @@ hr {
        margin-left: inherit;
    }
 }
+
+@media screen and (max-width: 568px) {
+    #menu {
+      clear: left;
+      float: left;
+      margin-left: 20px;
+      margin-bottom: 20px;
+      line-height: 25px;
+    }
+    #menu a {
+        margin-left: inherit;
+    }
+    .gotopbtn {
+        margin-right: -20px;
+    }
+    #logo {
+        font-size: 200%;
+    }
+    #welcome {
+        font-size: 190%
+    }
+    #testing h3 {
+        font-size: 15px;
+    }
+}
