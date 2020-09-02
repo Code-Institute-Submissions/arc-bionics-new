@@ -39,7 +39,7 @@ To view my live website, please click onto this below:
 
         1. As a First Time Visitor, I want to easily learn the purpose of the site and more about the organisation.
         2. As a First Time Visitor, I want to easily navigate through the site to find content.
-        3. As a First Time Visitor, I want to navigate the social links of the organisation to determine how known they are.
+        3. As a First Time Visitor, I want to be able to browse the social links to see how known they are.
         4. As a First Time Visitor, I want to be able to see a company logo located within the website.
         5. As a First Time Visitor, I want to be able to use a form to contact the site for any queries in relation to bionics.
 
