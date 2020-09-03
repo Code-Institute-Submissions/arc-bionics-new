@@ -145,6 +145,10 @@ To view my live website, please click onto this below:
         - GitHub is used to store the projects code after being pushed from Git.
     6. [Balsamiq](https://balsamiq.com/)
          - Balsamiq was used to create the wireframes during the design process.
+    7. [HTML Formatter](https://www.freeformatter.com/html-formatter.html)
+         - HTML Formatter was used to indent and beautify my code across my 3 pages.
+    8. [CSS Formatter](https://www.freeformatter.com/css-beautifier.html)
+         - CSS Formatter was used to beautify my CSS with indentations where needed.
 
 ## Testing <a name="testing"></a>
 
