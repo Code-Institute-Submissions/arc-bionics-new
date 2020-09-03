@@ -157,7 +157,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
  - This was used to validate the CSS.
 
-    Results for the validation service can be found [Here](http://jigsaw.w3.org/css-validator/validator$link)
+    Results for the validation service can be found [Here](documentation/CSS-Validation.png)
 
 [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
  - This was used to validate the content of my HTML content.
