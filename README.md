@@ -158,7 +158,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
  - This was used to validate the content of my HTML content.
 
-    Results for the HTML validation can be found [Here](documentation/HTML-Validation.jpg)
+    Results for the HTML validation can be found [Here](documentation/)
 
 
 ### Testing User Stories from UX Section
