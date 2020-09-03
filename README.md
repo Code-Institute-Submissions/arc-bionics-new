@@ -54,7 +54,7 @@ To view my live website, please click onto this below:
 ## Design Choices <a name="designchoices"></a>
 
 - ### Website Drafts
-<h2 align="center"><img src="documentation/Website-Drafts.jpg"></h2>
+<h2 align="center"><img src="/documentation/wireframes/Website-Drafts.jpg"></h2>
 
 - Originally before the creation of this website, I had multiple ideas as to how i would want my website to be like.
 
