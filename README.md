@@ -217,12 +217,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ## Known Bugs <a name="knownbugs"></a>
 
-- ~~In mobile view, the navigation bar shows as Home being below the other 2 links. This still functions well.~~
-    - This is now fixed.
-
-- ~~In various handheld devices, the gallery page shows images with more margins as usual, the images still show but this does not effect the page as a whole.~~
-    - This has now been addressed and fixed.
-
 - Not a bug, but if users view the mobile responsiveness through Chrome Dev Tools, and margins show on some devices, the webpage has to be  refreshed in order for the view
   to change.
 
