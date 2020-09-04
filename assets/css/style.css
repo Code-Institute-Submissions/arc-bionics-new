@@ -15,6 +15,8 @@ body {
    background-color: #E5A607;
 }
 
+/* Scroll Button */
+
 .gotopbtn {
     position: fixed;
     width: 50px;
@@ -30,12 +32,16 @@ body {
     margin-right: -50px;
 }
 
+/* End Scroll Button */
+
 h2 {
    font-family: 'Noto Sans', sans-serif;
    text-transform: uppercase;
    letter-spacing: 4px;
    color: #000000;
 }
+
+/* Header */
 
 #logo {
    float: left;
@@ -71,6 +77,10 @@ h2 {
    border-bottom: 1px solid #777777;
 }
 
+/* End Header */
+
+/* Hero Image */
+
 #hero-image {
    height: 600px;
    width: 100%;
@@ -99,9 +109,8 @@ h2 {
    }
 }
 
-#cover-text,
-cover-text h2 {
-   color: #ffffff;
+#cover-text, #cover-text h2 {
+   color: #000000;
 }
 
 #cover-text {
@@ -118,6 +127,10 @@ cover-text h2 {
    right: 150px;
    position: absolute;
 }
+
+/* End Hero Image */
+
+/* Company Motive */
 
 #company-motive {
    height: 600px;
@@ -196,6 +209,10 @@ hr {
    border-radius: 50%;
 }
 
+/* End Company Motive */
+
+/* Product Testing Info */
+
 #testing {
    background-image: url("../images/arc-bionics-logo-2.jpg");
    background-repeat: no-repeat;
@@ -223,6 +240,8 @@ hr {
 #testing h3 {
    font-size: 20px;
 }
+
+/* End Testing Products Info */
 
 /*--------------Footer CSS------------*/
 .social-links {
@@ -314,6 +333,8 @@ hr {
    background-color: #fafafa;
    color: #f16c6b;
 }
+
+/*--------End Form  Code -----------*/
 
 /*--------Media Queries--------*/
 
