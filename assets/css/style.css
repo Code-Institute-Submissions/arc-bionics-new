@@ -464,5 +464,6 @@ hr {
 @media screen and (max-width: 823px) {
         .signup-form {
             margin-left: inherit;
+            max-width: fit-content;;
         }
 }
