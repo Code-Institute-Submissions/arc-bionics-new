@@ -438,8 +438,8 @@ hr {
     }
 }
 
-@media screen and (max-width: 736px) {
+@media screen and (max-width: 823px) {
         .signup-form {
-            margin-left: 5.5px;
+            margin-left: inherit;
         }
 }
