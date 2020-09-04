@@ -31,6 +31,8 @@ To view my live website, please click onto this below:
 
 [View the live project here.](https://shazaiib47.github.io/arc-bionics-new/)
 
+*Disclaimer: If viewing in CDT for mobile responsiveness and margins show, please refresh website in mobile view.*
+
 ## User Experience (UX) <a name="ux"></a>
 
 -   ### User Stories
