@@ -1,6 +1,6 @@
 <h1 align="center">Arc Bionics</h1>
 
-<h2 align="center"><img src="/assets/images/responsive-website-snap.png"></h2>
+<h2 align="center"><img src="/assets/images/responsive-website-snap2.png"></h2>
 
 # Table of Contents <a name="home"></a>
 
