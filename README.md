@@ -175,6 +175,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
             This is reinforced with a ethos which states "The Future of Movement Is Here".
         2. This ethos alone captures a user's interest and encourages them to slow down in which they will find more information
             about the company itself as well as the benefits of having a bionic limb.
+
+        <h2 align="center"><img src="/documentation/visitor-stories-responsive-home.png"></h2>    
     
     2. As a First Time Visitor, I want to easily navigate through the site to find content.
 
@@ -183,13 +185,16 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
             which is good user experience.
         2. The  website contains a footer with interactive links to choose that will take you to further social sites to learn more about
            the company itself and opens in another tab, leaving the  website in a tab of its own.
+        
+        <h2 align="center"><img src="/documentation/visitor-stories-responsive-footer.png"></h2>
     
     3. As a First Time Visitor, I want to be able to use a form to contact the site for any queries in relation to bionics.
 
 
         1. The website has a seperate page labelled as 'Contact Us'. This page has a clear and concise form to interact with.
         2. The form itself is clearly labelled and does not let you submit  unless you fill in all the fields which is good user experience.
-    
+
+        <h2 align="center"><img src="/documentation/visitor-stories-form.png"></h2>
 
     ## Further Testing
      - The Website was tested on multiple browsers; Chrome, Firefox, Microsoft Edge and Safari.
